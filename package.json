@@ -1,5 +1,5 @@
 {
-  "name": "@harvard-library/passport-cas2-strategy",
+  "name": "@n0spaces/passport-cas2-strategy",
   "version": "2.0.2",
   "main": "dist/index.js",
   "scripts": {
